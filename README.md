@@ -1,15 +1,14 @@
-![Tests](https://github.com/gaetbout/starknet-erc20-lazy-initialization/actions/workflows/tests.yml/badge.svg)  [![Twitter URL](https://img.shields.io/twitter/url.svg?label=Follow%20%40gaetbout&style=social&url=https%3A%2F%2Ftwitter.com%2Fgaetbout)](https://twitter.com/gaetbout)
+![Tests](https://github.com/gaetbout/starknet-erc20-lazy-initialization/actions/workflows/tests.yml/badge.svg)  [![Twitter URL](https://twitter.com/ornl_btc?t=K2WpNCxUa8CV5FX2Y8pTqQ&s=09)]([https://twitter.com/gaetbout](https://twitter.com/ornl_btc?t=K2WpNCxUa8CV5FX2Y8pTqQ&s=09))
 
 # starknet-erc20-lazy-initialization
 ## 🪂 Description
 Open now your wallet on ~~Goerli~~ Mainnet and add this token:  
-**0x06321571ce6f884a184e6c5872dfb2b833201c5a4707c1bce0bfb62f252192ee**.  
-You should see a balance of 1.000 GAET s.  
-Deploy a new wallet and add the token again... It also has 1.000 GAETs.  
-Every existing wallet or wallet that will ever exist will have 1.000 GAETs. Wait whaaaaaat?  
-But how, why, again what?  
+**0x07fE495Ecc5549978c73fF9b544B0c6CE84AeB60405AcDeb9Befc603C80dA0e0**.  
+
+Deploy a new wallet and add the token again... 
+
   
-This is the biggest airdrop ever. Every address existing or that will exist will have 1.000 tokens of this token.  
+This is the biggest airdrop ever. 
 I didn't run a computer to send this token to every possible address I just modifid the default implementation of an ERC20 contract to make it lazy initialized.  
 Note that it could also be used as a testnet (or even mainnet) token to avoid user to have to mint the tokens.  
 [Link to the deployed contract](https://starkscan.co/contract/0x07fE495Ecc5549978c73fF9b544B0c6CE84AeB60405AcDeb9Befc603C80dA0e0)  
