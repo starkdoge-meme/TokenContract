@@ -1,6 +1,6 @@
 ![Tests](https://github.com/gaetbout/starknet-erc20-lazy-initialization/actions/workflows/tests.yml/badge.svg)  [![Twitter URL](https://twitter.com/ornl_btc?t=K2WpNCxUa8CV5FX2Y8pTqQ&s=09)]([https://twitter.com/gaetbout](https://twitter.com/ornl_btc?t=K2WpNCxUa8CV5FX2Y8pTqQ&s=09))
 
-# starknet-erc20-lazy-initialization
+# starknet-erc20-StarkDoge
 ## 🪂 Description
 Open now your wallet on ~~Goerli~~ Mainnet and add this token:  
 **0x07fE495Ecc5549978c73fF9b544B0c6CE84AeB60405AcDeb9Befc603C80dA0e0**.  
